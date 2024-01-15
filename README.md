@@ -3,7 +3,9 @@ The project scope is implementing a mobile responsiveness, making the applicatio
 
 ## a.	User
 i.	Admin
+
 ii.	Flood Victim
+
 iii.	Donator
 
 ## b.	Physical Location	
