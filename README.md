@@ -1,4 +1,4 @@
-1.5	Project Scope
+## Project Scope
 The project scope is implementing a mobile responsiveness, making the application accessible on both web and mobile platforms. The administrative functions will be accessible through the web interface, while donators and flood victims will use a mobile interface. This approach ensures a user-friendly experience for different users, depending on their roles, devices, and needs. Below are the detailed of project scope:
 a.	User
 i.	Admin
